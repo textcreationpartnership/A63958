@@ -1,0 +1,338 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A congratulatory poem to the Reverend Dr. John Tillotson upon his promotion to the arch-episcopal-see of Canterbury / by Mr. Tutchin.</title>
+            <author>Tutchin, John, 1661?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63958</idno>
+            <idno type="STC">Wing T3372</idno>
+            <idno type="STC">ESTC R7763</idno>
+            <idno type="EEBO-CITATION">12251671</idno>
+            <idno type="OCLC">ocm 12251671</idno>
+            <idno type="VID">57136</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63958)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57136)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A congratulatory poem to the Reverend Dr. John Tillotson upon his promotion to the arch-episcopal-see of Canterbury / by Mr. Tutchin.</title>
+                  <author>Tutchin, John, 1661?-1707.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Haite,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tillotson, John, 1630-1694 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57136:1" rendition="simple:additions"/>
+            <p>A CONGRATULATORY POEM To the REVEREND Dr. John Tillotſon, UPON HIS PROMOTION TO THE ARCH-EPISCOPAL-SEE OF CANTERBURY.</p>
+            <p>By Mr. <hi>TUTCHIN.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Haite.</hi> MDCXCI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:57136:2"/>
+            <pb n="3" facs="tcp:57136:2"/>
+            <head>A Congratulatory POEM, &amp;c.</head>
+            <lg>
+               <l>WHilſt Prieſtly Pens the Glorious Theam decline,</l>
+               <l>And at their Loſs, or at your Fate repine;</l>
+               <l>And College-Wits no Tuneful Notes expreſs,</l>
+               <l>Are drunk in Faction, or unskill'd in Verſe;</l>
+               <l>I, who the <hi>Levite</hi> ſeldome did adore,</l>
+               <l>And ſcarce e're knew a Prieſt I lov'd before,</l>
+               <l>Do to your Fame a juſter Tribute bring,</l>
+               <l>At once the Prelate and his Virtues ſing.</l>
+            </lg>
+            <lg>
+               <l>'Twas but of late my Warbling Lute I ſtrung,</l>
+               <l>And Mighty <hi>Orange</hi> in juſt Numbers ſung;</l>
+               <l>Did with the wondring World in Notes rejoyce,</l>
+               <l>And Prais'd our Makers and the Peoples Choice;</l>
+               <l>Now the dear ſweets of freſher Joys commence,</l>
+               <l>And for the Prelate we muſt bleſs the Prince.</l>
+               <l>Methinks the Virtue of our Land appears</l>
+               <l>After the Luxury of Thirty Years,</l>
+               <l>When cloſe Opinions ſet the Prelate forth,</l>
+               <l>And 'twas his Faction rais'd him, not his worth.</l>
+               <l>A juſter Path our Righteous Prince did tread,</l>
+               <l>Deſtin'd the Mitre for a Nobler Head:</l>
+               <l>He ſhall Unvanquiſh'd on the Plain Command,</l>
+               <l>When ſuch a Biſhop does ſupport his Hand:</l>
+               <l>
+                  <pb n="4" facs="tcp:57136:3"/>
+Home from the Wars ſhall laſting Trophies bear,</l>
+               <l>For Heav'n will grant a Righteous Prelate's Pray'r.</l>
+               <l>On you, Great Sir, our Pious Hopes depend,</l>
+               <l>Your Learning muſt our Rational Faith defend;</l>
+               <l>We fear no Fate, reſolv'd to overcome,</l>
+               <l>Beneath your Banner, who have Conquer'd <hi>Rome.</hi>
+               </l>
+               <l>Whilſt Mighty <hi>William</hi> draws his Shining Sword,</l>
+               <l>To Fight God's Battels, you Maintain his Word;</l>
+               <l>He Skill'd in War, with Manly Proweſs Arm'd,</l>
+               <l>Has each Good Man and every Nation Charm'd;</l>
+               <l>Your Skill in Argument is not unknown,</l>
+               <l>Nor the great Feats your Artful Pen has done;</l>
+               <l>Although Religion ſeem'd to bid adieu,</l>
+               <l>It's Reſurrection we expect from you.</l>
+               <l>Religion firſt with dazling Rays did Shine,</l>
+               <l>Her Shape was Comely, and her Face Divine,</l>
+               <l>Her Native Beauty each Admirer warm'd,</l>
+               <l>E're Stains of Error had her Meen deform'd,</l>
+               <l>And Clouds of Ignorance, that Truth o'reſpread,</l>
+               <l>Hover'd in Gloomy Circles round her Head.</l>
+               <l>You are the Sun that muſt diſpel theſe Miſts,</l>
+               <l>Revive Religion, and Reform our Prieſts;</l>
+               <l>Curb all our Vices, and Impede their Growth,</l>
+               <l>So long Debauch'd in Luxury and Sloth.</l>
+               <l>You are the <hi>Moſes</hi> muſt our Factions quell,</l>
+               <l>And ſtop the Murmuring of our <hi>Iſrael.</hi>
+               </l>
+               <l>At your Advancement Pious Souls Rejoice,</l>
+               <l>No more the Monarchs than the Peoples Choice.</l>
+               <l>Before the King's Decree was fully known,</l>
+               <l>Methought each Look Declar'd for <hi>Tillotſon:</hi>
+               </l>
+               <l>But when 'twas known, each Man his Joy Expreſt,</l>
+               <l>And Thank'd the Monarch for ſo good a Prieſt.</l>
+               <l>Each diſtant place receiv'd the joyful ſound,</l>
+               <l>Where the glad News a Hearty Welcome found.</l>
+               <l>
+                  <pb n="5" facs="tcp:57136:3"/>
+Tho' diff'rent Sects too much infeſt our Land,</l>
+               <l>And with hot Zeal for either Party ſtand;</l>
+               <l>Tho' the Devotes too Mad and Rigid are,</l>
+               <l>There ne're appear'd a Raſh Diſſenter here.</l>
+               <l>The Prelate all approve, the Man Careſs,</l>
+               <l>And for his Choice their Rightful Monarch Bleſs.</l>
+            </lg>
+            <lg>
+               <l>Let Envious Prieſts your Glories ſtrive to blaſt,</l>
+               <l>Fixt as ſome Rock your Memory ſhall laſt.</l>
+               <l>No ſtubborn <hi>Levite</hi> ſhall moleſt your Fame,</l>
+               <l>But yours ſhall grow, as Mighty <hi>William</hi>'s Name.</l>
+               <l>The Stubborn <hi>Levites</hi> are our Land's diſgrace,</l>
+               <l>A Haughty, Proud, and a Contentious Race;</l>
+               <l>Byaſs'd in Judgment, Turbulent in Mind,</l>
+               <l>No King can Pleaſe, nor Acts of Grace can Bind;</l>
+               <l>Promote our Wars with vaſt Expence of Blood,</l>
+               <l>Prefer their Humour to their Countries Good;</l>
+               <l>If theſe Reproach, the Venom of their Gall</l>
+               <l>Beneath the weight of your Contempt muſt fall.</l>
+               <l>All the Reproaches of the Wicked muſt</l>
+               <l>Tend to the Praiſes of the Good and Juſt.</l>
+               <l>Who knows the Vice to Envy does belong,</l>
+               <l>Wou'd loathe the Slanders of a Railing Tongue:</l>
+               <l>The Glory of your Virtue ſhines more bright,</l>
+               <l>And ſcorns the Darkneſs of approaching Night:</l>
+               <l>'Tis not the Tainted Breath of Envious Fame,</l>
+               <l>Can Blaſt the Beauties of your Spotleſs Name;</l>
+               <l>You need not value what the Gloomy ſay,</l>
+               <l>The Clouds may Darken, not Obſtruct the day.</l>
+               <l>The Lofty Pine, with Head Erect, does grow,</l>
+               <l>Nor heeds the Motion of the Shrubs below.</l>
+               <l>On in its courſe the conſtant Moon ſtill jogs,</l>
+               <l>Diſdains the Barking Neighbourhood of Dogs.</l>
+               <l>
+                  <pb n="6" facs="tcp:57136:4"/>
+When Virtue is oppos'd by Vicious Might,</l>
+               <l>It ſhews its force, and ſhines with double Light.</l>
+               <l>Virtue, like <hi>Camomile</hi> oppreſs'd, ſtill lives,</l>
+               <l>The more 'tis trampled on, the better Scent it gives.</l>
+               <l>What though you're Hated and Contemn'd by Few,</l>
+               <l>The Many to your Cauſe and Faith are true;</l>
+               <l>In vain the Bad their weak diſguſt expreſt,</l>
+               <l>Since you are Lov'd, Supported by the Beſt.</l>
+               <l>Scarce had our Royal Pair a greater Train,</l>
+               <l>To give the Scepter of a Gentle Reign,</l>
+               <l>Than that the Prelate has ſo lately grac'd,</l>
+               <l>Who gave the <hi>Croſier</hi> and the <hi>Miter</hi> plac'd;</l>
+               <l>The Noble Throng led the Imperial Way,</l>
+               <l>Scarce could <hi>Moria</hi>'s Charms Command their Stay;</l>
+               <l>To ſee the Rites perform'd they all Reſort,</l>
+               <l>Leſs'ning the Numbers of the Crowded Court.</l>
+            </lg>
+            <lg>
+               <l>From ev'ry part the glad Admirers throng,</l>
+               <l>And Bleſs the Prelate as they paſs along.</l>
+               <l>Thus once the Ranſom'd People fill'd the Strand,</l>
+               <l>O'reſpread the Beach, to ſee Great <hi>ORANGE</hi> Land;</l>
+               <l>He brought Ten Thouſand Bleſſings to the Shoar,</l>
+               <l>Great as the Miſeries we felt before,</l>
+               <l>Remov'd our Scourges, and Deſtroy'd our Rods,</l>
+               <l>And Triumph'd o're our Wooden Prieſts and Gods.</l>
+               <l>The joyful People ſoon his Praiſes ſing,</l>
+               <l>With one united Shout Proclaim him King.</l>
+               <l>Scarce did they more Rejoyce to ſee the Crown</l>
+               <l>Plac'd on a Head was Choſen by their own,</l>
+               <l>Than now they Triumph when the <hi>Miter</hi>'s given,</l>
+               <l>To one approv'd by People, Prince, and Heav'n.</l>
+               <l>But now, my Lord! the Mighty Work is done,</l>
+               <l>And Heav'n with Bleſſings does the Action Crown;</l>
+               <l>
+                  <pb n="7" facs="tcp:57136:4"/>
+The joyful News fills every diſtant Plain,</l>
+               <l>And glads the Heart of every Humble Swain.</l>
+               <l>We from your Learning do expect the Truth,</l>
+               <l>To help the Aged, and Inſtruct the Youth;</l>
+               <l>And hope your good Example will afford,</l>
+               <l>The ſame Succeſs as Mighty <hi>WILLIAM</hi>'s Sword:</l>
+               <l>Conquer the Luſts and Vices of the Age,</l>
+               <l>Aſſwage their Fury, and appeaſe their Rage:</l>
+               <l>To ſtop a Torrent, when the Waves combine,</l>
+               <l>Requires a Courage and a Heat Divine:</l>
+               <l>To dare their Force, and with addreſs withſtand</l>
+               <l>The Impious Fury of a Sinful Land:</l>
+               <l>Such Mighty Actions never can be done,</l>
+               <l>But by the Hands of ſuch as <hi>Tillotſon;</hi>
+               </l>
+               <l>'Tis not an eaſie ſtep to mount a Throne,</l>
+               <l>And pull an old Imperious Tyrant down.</l>
+               <l>Sin, like a Tyrant, with its Scepter Reigns,</l>
+               <l>And all the Pious Strength of Man diſdains;</l>
+               <l>A num'rous Train does to its Courts belong,</l>
+               <l>Its Slaves are Valiant and its Vot'ries ſtrong:</l>
+               <l>Juſt like a Rightful Monarch it appears,</l>
+               <l>And pleads Succeſſion of ſome Hundred Years;</l>
+               <l>Does for all Lewdneſs and each Vice declare,</l>
+               <l>And againſt Grace Proclaims an open War:</l>
+               <l>All its ſtrong holds with Art does fortifie,</l>
+               <l>And forms a Train of its Artillery:</l>
+               <l>Of Luſt, Ambition, and Inſatiate Pride,</l>
+               <l>Of Malice and Ten Thouſand Ills beſide;</l>
+               <l>Longing for Death, and Thirſting after Blood,</l>
+               <l>And the deſtruction of each thing that's Good.</l>
+               <l>This is the Enemy, my Lord, you muſt</l>
+               <l>Deſtroy, and lay its Honour in the Duſt;</l>
+               <l>Retrieve the Praiſe of Thread-bare Virtue's Fame,</l>
+               <l>And give't a Glorious and Immortal Name.</l>
+               <l>
+                  <pb n="8" facs="tcp:57136:5" rendition="simple:additions"/>
+'Tis true, the Buſineſs and the Work is hard,</l>
+               <l>But great's your Help, and great is your Reward.</l>
+               <l>The Mighty <hi>WILLIAM</hi> did the Scepter Sway,</l>
+               <l>When Men were Stubborn, and refus'd t'Obey;</l>
+               <l>A Moody People in a Nation Rul'd,</l>
+               <l>Had been with Folly and with Lewdneſs gull'd,</l>
+               <l>So Good, ſo Mild, ſo Gentle was his Sway,</l>
+               <l>The major part ſoon learned to Obey.</l>
+               <l>Nor is the Hierarchy, where you Command,</l>
+               <l>Much leſs Infeſted with the Sins o'th' Land;</l>
+               <l>Deſpotick Sway of late o'recame the Law,</l>
+               <l>And we the Ruins of our Freedoms ſaw:</l>
+               <l>Then Grave Divinity became a Cheat,</l>
+               <l>And fell and dwindled to I know not what:</l>
+               <l>Some for Preferment had their Faith forgot,</l>
+               <l>And gave their Hand to carry on the Plot;</l>
+               <l>Some Braves indeed (and theſe were not a few)</l>
+               <l>Kept to their Doctrines and their Country true,</l>
+               <l>Oppos'd our Foes, and our Reſtorer ſerv'd,</l>
+               <l>And never yet have from his Intereſt ſwerv'd.</l>
+               <l>The Glory of our Faith you muſt retrieve,</l>
+               <l>And a new Life muſt to Religion give,</l>
+               <l>And make our Clergy good Examples live.</l>
+               <l>Thus by your Sway we hope for better times,</l>
+               <l>Men ſhall hate Vice, and ſhall abandon Crimes;</l>
+               <l>The Shame of Sinning ſhall its uſe unlearn,</l>
+               <l>And Men by Virtue ſhall their Worth diſcern,</l>
+               <l>The Prieſts no longer ſhall be ſteep'd in Sloth,</l>
+               <l>And't ſhall be Scandal to refuſe the Oath;</l>
+               <l>Nor ſhall Opinion one another blame,</l>
+               <l>The <hi>Wolf</hi> ſhall ſlumber with the tender <hi>Lamb;</hi>
+               </l>
+               <l>Our Tuneful Bards exalted Notes ſhall raiſe,</l>
+               <l>And Sing the Monarch's, and the Biſhop's Praiſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
